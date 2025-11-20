@@ -5,3 +5,10 @@ __pycache__
 .venv/
 .vscode
 .DS_Store
+# Managed by gix gitignore workflow
+.env
+.env.*
+qodana.yaml
+.idea/
+tools/
+bin/
